@@ -1,4 +1,4 @@
-package cl.crisan.patrones.comportamiento.chain_of_responsability.clase_abstracta;
+package cl.crisan.patrones.comportamiento.chain_of_responsability.ejemplo1;
 
 public class ChainPatternDemo {
 
