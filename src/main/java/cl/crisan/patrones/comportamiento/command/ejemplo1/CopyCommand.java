@@ -1,4 +1,4 @@
-package cl.crisan.patrones.comportamiento.command;
+package cl.crisan.patrones.comportamiento.command.ejemplo1;
 
 public class CopyCommand extends Command {
 
